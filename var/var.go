@@ -12,4 +12,5 @@ var node bool
 func main() {
     var i int
     fmt.Println(node, i)
+    
 }
